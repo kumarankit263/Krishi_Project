@@ -49,20 +49,6 @@
 
 - **package.json**: Contains metadata about the project and its dependencies.
 
-## Frontend
-
-### Components
-
-- **components/Navbar.jsx**: Component for displaying the navigation bar.
-- **components/Login.jsx**: Component for handling user login and signup.
-- **components/Profile.jsx**: Component for displaying the user profile.
-- **components/CropList.jsx**: Component for displaying the list of crops.
-- **components/AddCrop.jsx**: Component for adding a new crop.
-- **components/EditCrop.jsx**: Component for editing crop details.
-- **components/Weather.jsx**: Component for displaying weather updates.
-- **components/MarketPrices.jsx**: Component for displaying market prices.
-
-### Store
 
 - **store/appStore.js**: Configures the Redux store and applies persistence.
 - **store/cropSlice.js**: Redux slice for managing crop data.
