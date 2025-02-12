@@ -78,10 +78,3 @@
 
 - **.env**: Contains environment variables for configuration (e.g., backend URL).
 
-### Ignored Files
-
-- **.gitignore**: Specifies files and directories to be ignored by Git (e.g., `node_modules`).
-
-### Package Configuration
-
-- **package.json**: Contains metadata about the project and its dependencies.
