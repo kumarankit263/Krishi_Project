@@ -74,7 +74,5 @@
 - **tailwind.config.js**: Configuration file for Tailwind CSS.
 - **vite.config.js**: Configuration file for Vite.
 
-### Environment Variables
 
-- **.env**: Contains environment variables for configuration (e.g., backend URL).
 
